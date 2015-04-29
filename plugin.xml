@@ -68,7 +68,7 @@
         <category android:name="android.intent.category.BROWSABLE" />
       </intent-filter>
       <intent-filter>
-        <data android:host="$HOST" android:scheme="http" />
+        <data android:host="$HOST" android:scheme="http" android:pathPrefix="/" />
         <action android:name="android.intent.action.VIEW" />
         <category android:name="android.intent.category.DEFAULT" />
         <category android:name="android.intent.category.BROWSABLE" />
