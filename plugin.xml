@@ -23,8 +23,6 @@
 
   <preference name="URL_SCHEME" />
   <preference name="HOST" />
-  <preference name="PATH_PREFIX" />
-  <preference name="PORT" />
 
   <engines>
     <engine name="cordova" version=">=3.0.0"/>
